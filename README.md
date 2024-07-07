@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @harshav1989
+- 👋 Hi, I’m harsha
 - 👀 I’m interested in Machine Learning and Java
 - 🌱 I’m currently learning Front end Development 
 - 💞️ I’m looking to collaborate on open source projects
