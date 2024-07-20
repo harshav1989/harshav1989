@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Harsha Vardhini V</h1>
 <h3 align="center">A passionate Computer Science student from India with a focus on backend development, machine learning, and React.</h3>
-<img align="right" alt="Coding" width="400" src="[https://www.behance.net/gallery/116770475/Animated-illustrations](https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif)">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/harshav1989/harshav1989/main/github.gif">
 
 
 - 🔭 I’m currently working on **Pinterest prototype**
