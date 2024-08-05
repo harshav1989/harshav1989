@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **harshavarrdhini@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14f2tKmgZ8J85Crz8BdXFum38vF8-WvaT/view?usp=drive_link](https://drive.google.com/file/d/14f2tKmgZ8J85Crz8BdXFum38vF8-WvaT/view?usp=drive_link)
+- 📄 Know about my experiences ([Resume](https://drive.google.com/file/d/1Y9zpZ-y0cR--pyS2klW_VKSP-DEyT9Qp/view?usp=drive_link))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
